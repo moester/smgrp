@@ -1,3 +1,8 @@
+name: Small Group
+pygments: true
 markdown: redcarpet
-baseurl: /smgrp
 exclude: ['README.md']
+seriess:
+ - Hebrews
+ - Leviticus
+ - John 1
